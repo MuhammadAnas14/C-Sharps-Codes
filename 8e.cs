@@ -5,14 +5,16 @@ class Program
     {  
         int i;  
         int[] a = new int[30]; // Array Declaration in C#  
+        
         Console.Write("Enter the Number of values to be Sort : ");  
-        // read the string value (by default) and convert it in to integer  
+        
         int n = Convert.ToInt16(Console.ReadLine());   
-        //Reading the values one by one  
+        
+        
         for (i = 1; i <= n; i++)  
         {  
             Console.Write("Enter the No " + i + ":");  
-            // read the string value (by default) and convert it in to integer  
+        
             a[i] = Convert.ToInt16(Console.ReadLine());   
         }  
         //Sorting the values  
