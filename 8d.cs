@@ -1,11 +1,3 @@
-
-twitter
-linkedIn
-Reddit
-expand
-Download Free .NET & JAVA Files API
-Try Free File Format APIs for Word/Excel/PDF
-
 using System;  
 class Program  
 {  
@@ -48,6 +40,5 @@ class Program
         }
 
     }
-    
-        
+            
 }
